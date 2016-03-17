@@ -10,7 +10,6 @@ html {
 .grains {
   margin: 0;
   padding: 0;
-
   list-style-type: none;
 }
 
@@ -24,9 +23,9 @@ html {
 }
 
 .grains h2 {
-
+  font-size: 1rem;
 }
 
 .grains p {
-
+  font-style: italic;
 }
