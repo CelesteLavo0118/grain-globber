@@ -20,12 +20,18 @@ html {
 .grains img {
   width: 100px;
   float: left;
+  clear: both;
+  padding-bottom: 1.5rem;
 }
 
 .grains h2 {
   font-size: 1rem;
+  padding-left: 7rem;
+  margin: 0;
 }
 
 .grains p {
   font-style: italic;
+  padding-left: 7rem;
+  margin: 0;
 }
